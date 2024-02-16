@@ -6,5 +6,5 @@ Primeiro eu defini como seria a gramatica da algebra relacional, como eu já fiz
 
 ![image](https://github.com/danielsouzza/CompilerAR/assets/100795273/128a3601-4fd1-43e0-b6d2-03e2091e2dc1)
 
-Caso queria testar o código, acesse o <a href="https://pl.kotl.in/8u3UQ-SeI">LINK</a>, lemprando que só o Lexer e o Parser foram desenvovidos ainda.
+Caso queria testar o código, acesse o <a href="https://pl.kotl.in/iUiMAMMtL">LINK</a>, lemprando que só o Lexer e o Parser foram desenvovidos ainda.
 

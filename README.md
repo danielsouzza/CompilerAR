@@ -5,3 +5,6 @@ Como o tempo é pequeno pensei em simplificar um pouco, em vez de fazer para tod
 Primeiro eu defini como seria a gramatica da algebra relacional, como eu já fiz bancos de dados não foi um problema, a gramatica gerada e simplificada é a seguinte:
 
 ![image](https://github.com/danielsouzza/CompilerAR/assets/100795273/128a3601-4fd1-43e0-b6d2-03e2091e2dc1)
+
+Caso queria testar o código, acesse o <a href="https://pl.kotl.in/8u3UQ-SeI">LINK</a>, lemprando que só o Lexer e o Parser foram desenvovidos ainda.
+
